@@ -1,17 +1,4 @@
-/*
-Declarer une variable qui récupere la saisie dans le input
-Enlever les espaces de cette variable 
-Mettre la variable en miniscule 
-
-function inverserTexte(notre variable en miniscule et sans espace) {
-  Créer une nouvelle variable pour stocker le texte inversé.
-  Pour chaque caractère dans la chaîne (en partant de la fin) :
-    Ajouter le caractère à la variable de texte inversé.
-  Retourner le texte inversé.
-}
-
-*/ 
-const checkBtn = document.getElementById('check-btn');
+ const checkBtn = document.getElementById('check-btn');
 const text = document.getElementById('text-input');
 const resultText = document.querySelector('.result-text');
 const lettersDiv = document.querySelector('.letters');

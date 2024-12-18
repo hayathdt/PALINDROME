@@ -37,4 +37,4 @@ Ce projet est un vérificateur de palindrome interactif qui permet aux utilisate
 ## Installation
 
 ```bash
-git clone https://github.com/votre-username/verificateur-palindrome.git
+git clone https://github.com/hayathdt/PALINDROME.git
